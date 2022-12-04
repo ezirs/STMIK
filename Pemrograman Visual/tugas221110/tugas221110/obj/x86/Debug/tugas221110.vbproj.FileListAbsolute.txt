@@ -1,0 +1,46 @@
+D:\Yorick_212102384_3C1\tugas221110\tugas221110\bin\Debug\tugas221110.exe
+D:\Yorick_212102384_3C1\tugas221110\tugas221110\bin\Debug\tugas221110.pdb
+D:\Yorick_212102384_3C1\tugas221110\tugas221110\bin\Debug\tugas221110.xml
+D:\Yorick_212102384_3C1\tugas221110\tugas221110\obj\x86\Debug\tugas221110.Form1.resources
+D:\Yorick_212102384_3C1\tugas221110\tugas221110\obj\x86\Debug\tugas221110.Resources.resources
+D:\Yorick_212102384_3C1\tugas221110\tugas221110\obj\x86\Debug\tugas221110.vbproj.GenerateResource.Cache
+D:\Yorick_212102384_3C1\tugas221110\tugas221110\obj\x86\Debug\tugas221110.exe
+D:\Yorick_212102384_3C1\tugas221110\tugas221110\obj\x86\Debug\tugas221110.xml
+D:\Yorick_212102384_3C1\tugas221110\tugas221110\obj\x86\Debug\tugas221110.pdb
+D:\Yorick_212102384_3C1\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_helloWorld.resources
+D:\Yorick_212102384_3C1\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_labelDanTextBox.resources
+D:\Yorick_212102384_3C1\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_groupBoxDanRadioButtot.resources
+D:\Yorick_212102384_3C1\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_checkBox.resources
+D:\Yorick_212102384_3C1\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_comboBoxDanListBox.resources
+D:\Yorick_212102384_3C1\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_dateTimePicker.resources
+D:\Yorick_212102384_3C1\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_anchor.resources
+D:\Yorick_212102384_3C1\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_webBrowser.resources
+D:\Yorick_212102384_3C1\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_panelDanNumericUpDown.resources
+D:\Yorick_212102384_3C1\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_notifyIcon.resources
+D:\Yorick_212102384_3C1\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_notepadSederhana.resources
+D:\Microsoft Visual Studio\tugas221110\tugas221110\obj\x86\Debug\tugas221110.exe
+D:\Microsoft Visual Studio\tugas221110\tugas221110\obj\x86\Debug\tugas221110.xml
+D:\Microsoft Visual Studio\tugas221110\tugas221110\obj\x86\Debug\tugas221110.pdb
+D:\Microsoft Visual Studio\tugas221110\tugas221110\bin\Debug\tugas221110.exe
+D:\Microsoft Visual Studio\tugas221110\tugas221110\bin\Debug\tugas221110.pdb
+D:\Microsoft Visual Studio\tugas221110\tugas221110\bin\Debug\tugas221110.xml
+D:\Microsoft Visual Studio\tugas221110\tugas221110\obj\x86\Debug\tugas221110.Form1.resources
+D:\Microsoft Visual Studio\tugas221110\tugas221110\obj\x86\Debug\tugas221110.Resources.resources
+D:\Microsoft Visual Studio\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_helloWorld.resources
+D:\Microsoft Visual Studio\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_anchor.resources
+D:\Microsoft Visual Studio\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_notepadSederhana.resources
+D:\Microsoft Visual Studio\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_labelDanTextBox.resources
+D:\Microsoft Visual Studio\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_groupBoxDanRadioButtot.resources
+D:\Microsoft Visual Studio\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_checkBox.resources
+D:\Microsoft Visual Studio\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_comboBoxDanListBox.resources
+D:\Microsoft Visual Studio\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_dateTimePicker.resources
+D:\Microsoft Visual Studio\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_webBrowser.resources
+D:\Microsoft Visual Studio\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_panelDanNumericUpDown.resources
+D:\Microsoft Visual Studio\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_notifyIcon.resources
+D:\Microsoft Visual Studio\tugas221110\tugas221110\obj\x86\Debug\tugas221110.vbproj.GenerateResource.Cache
+D:\Microsoft Visual Studio\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_tapConrol.resources
+D:\Microsoft Visual Studio\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_login.resources
+D:\Microsoft Visual Studio\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_multipleForm.resources
+D:\Microsoft Visual Studio\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_edit.resources
+D:\Microsoft Visual Studio\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_new.resources
+D:\Microsoft Visual Studio\tugas221110\tugas221110\obj\x86\Debug\tugas221110.frm_parent.resources

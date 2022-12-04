@@ -1,0 +1,28 @@
+C:\Users\Mahasiswa C-03\AppData\Local\Temporary Projects\CRUD_msAccess\bin\Debug\CRUD_msAccess.exe
+C:\Users\Mahasiswa C-03\AppData\Local\Temporary Projects\CRUD_msAccess\bin\Debug\CRUD_msAccess.pdb
+C:\Users\Mahasiswa C-03\AppData\Local\Temporary Projects\CRUD_msAccess\bin\Debug\CRUD_msAccess.xml
+C:\Users\Mahasiswa C-03\AppData\Local\Temporary Projects\CRUD_msAccess\obj\x86\Debug\CRUD_msAccess.Form1.resources
+C:\Users\Mahasiswa C-03\AppData\Local\Temporary Projects\CRUD_msAccess\obj\x86\Debug\CRUD_msAccess.Resources.resources
+C:\Users\Mahasiswa C-03\AppData\Local\Temporary Projects\CRUD_msAccess\obj\x86\Debug\CRUD_msAccess.vbproj.GenerateResource.Cache
+C:\Users\Mahasiswa C-03\AppData\Local\Temporary Projects\CRUD_msAccess\obj\x86\Debug\CRUD_msAccess.exe
+C:\Users\Mahasiswa C-03\AppData\Local\Temporary Projects\CRUD_msAccess\obj\x86\Debug\CRUD_msAccess.xml
+C:\Users\Mahasiswa C-03\AppData\Local\Temporary Projects\CRUD_msAccess\obj\x86\Debug\CRUD_msAccess.pdb
+D:\Yorick_212102384_3C1\CRUD_msAccess\CRUD_msAccess\obj\x86\Debug\CRUD_msAccess.exe
+D:\Yorick_212102384_3C1\CRUD_msAccess\CRUD_msAccess\obj\x86\Debug\CRUD_msAccess.xml
+D:\Yorick_212102384_3C1\CRUD_msAccess\CRUD_msAccess\obj\x86\Debug\CRUD_msAccess.pdb
+D:\Yorick_212102384_3C1\CRUD_msAccess\CRUD_msAccess\bin\Debug\CRUD_msAccess.exe
+D:\Yorick_212102384_3C1\CRUD_msAccess\CRUD_msAccess\bin\Debug\CRUD_msAccess.pdb
+D:\Yorick_212102384_3C1\CRUD_msAccess\CRUD_msAccess\bin\Debug\CRUD_msAccess.xml
+D:\Yorick_212102384_3C1\CRUD_msAccess\CRUD_msAccess\obj\x86\Debug\CRUD_msAccess.Form1.resources
+D:\Yorick_212102384_3C1\CRUD_msAccess\CRUD_msAccess\obj\x86\Debug\CRUD_msAccess.Resources.resources
+D:\Yorick_212102384_3C1\CRUD_msAccess\CRUD_msAccess\obj\x86\Debug\CRUD_msAccess.vbproj.GenerateResource.Cache
+D:\Microsoft Visual Studio\CRUD_msAccess\CRUD_msAccess\obj\x86\Debug\CRUD_msAccess.exe
+D:\Microsoft Visual Studio\CRUD_msAccess\CRUD_msAccess\obj\x86\Debug\CRUD_msAccess.xml
+D:\Microsoft Visual Studio\CRUD_msAccess\CRUD_msAccess\obj\x86\Debug\CRUD_msAccess.pdb
+D:\Microsoft Visual Studio\CRUD_msAccess\CRUD_msAccess\bin\Debug\CRUD_msAccess.exe
+D:\Microsoft Visual Studio\CRUD_msAccess\CRUD_msAccess\bin\Debug\CRUD_msAccess.pdb
+D:\Microsoft Visual Studio\CRUD_msAccess\CRUD_msAccess\bin\Debug\CRUD_msAccess.xml
+D:\Microsoft Visual Studio\CRUD_msAccess\CRUD_msAccess\obj\x86\Debug\CRUD_msAccess.vbprojResolveAssemblyReference.cache
+D:\Microsoft Visual Studio\CRUD_msAccess\CRUD_msAccess\obj\x86\Debug\CRUD_msAccess.Form1.resources
+D:\Microsoft Visual Studio\CRUD_msAccess\CRUD_msAccess\obj\x86\Debug\CRUD_msAccess.Resources.resources
+D:\Microsoft Visual Studio\CRUD_msAccess\CRUD_msAccess\obj\x86\Debug\CRUD_msAccess.vbproj.GenerateResource.Cache

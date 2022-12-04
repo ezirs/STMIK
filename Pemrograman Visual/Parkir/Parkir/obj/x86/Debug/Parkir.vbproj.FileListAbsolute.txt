@@ -1,0 +1,15 @@
+C:\Users\Mahasiswa C-03\AppData\Local\Temporary Projects\Parkir\bin\Debug\Parkir.exe
+C:\Users\Mahasiswa C-03\AppData\Local\Temporary Projects\Parkir\bin\Debug\Parkir.pdb
+C:\Users\Mahasiswa C-03\AppData\Local\Temporary Projects\Parkir\bin\Debug\Parkir.xml
+C:\Users\Mahasiswa C-03\AppData\Local\Temporary Projects\Parkir\obj\x86\Debug\Parkir.frmMember.resources
+C:\Users\Mahasiswa C-03\AppData\Local\Temporary Projects\Parkir\obj\x86\Debug\Parkir.Resources.resources
+C:\Users\Mahasiswa C-03\AppData\Local\Temporary Projects\Parkir\obj\x86\Debug\Parkir.vbproj.GenerateResource.Cache
+C:\Users\Mahasiswa C-03\AppData\Local\Temporary Projects\Parkir\obj\x86\Debug\Parkir.exe
+C:\Users\Mahasiswa C-03\AppData\Local\Temporary Projects\Parkir\obj\x86\Debug\Parkir.xml
+C:\Users\Mahasiswa C-03\AppData\Local\Temporary Projects\Parkir\obj\x86\Debug\Parkir.pdb
+D:\Yorick_Yoranda_212102384\Parkir\Parkir\obj\x86\Debug\Parkir.exe
+D:\Yorick_Yoranda_212102384\Parkir\Parkir\obj\x86\Debug\Parkir.xml
+D:\Yorick_Yoranda_212102384\Parkir\Parkir\obj\x86\Debug\Parkir.pdb
+D:\Microsoft Visual Studio\Parkir\Parkir\obj\x86\Debug\Parkir.exe
+D:\Microsoft Visual Studio\Parkir\Parkir\obj\x86\Debug\Parkir.xml
+D:\Microsoft Visual Studio\Parkir\Parkir\obj\x86\Debug\Parkir.pdb
